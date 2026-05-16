@@ -250,13 +250,11 @@ nav{
     <div class="hero-image">
         <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=687&auto=format&fit=crop" alt="">
     </div>
-
 </section>
 
 <section class="about" id="about">
 
     <h2 class="section-title">About Me</h2>
-
     <p>
         I am a creative and enthusiastic developer who loves
         building beautiful websites and applications.
@@ -342,7 +340,7 @@ nav{
     <h2 class="section-title">Contact</h2>
 
     <p>Email: deeksha@example.com</p>
-    <p>Phone: +91 9876543210</p>
+    <p>Phone: +91 6362334567</p>
     <p>Location: Karnataka, India</p>
 
 </section>
